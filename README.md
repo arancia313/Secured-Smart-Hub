@@ -1,5 +1,5 @@
 # Secured-Smart-Hub
-Secured Smart Hub is used by the Secure Folder.
+Secured Smart Hub is used by the Secure Folder, to make your homeworks secured.
 
 # Secured Smart Hub 0.5 and 1.2 offline editor installation
 A simple files that i add in the repository for downloading the .sb3 and .pmp file.
